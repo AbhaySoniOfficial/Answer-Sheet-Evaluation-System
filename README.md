@@ -6,12 +6,11 @@ This is a Answer Sheet Evaluation System app that runs in Google Colab. It can a
 
 My colab link - https://colab.research.google.com/drive/1VJ0_kjlLkmn08_FiKENMhD2XOjpJFlQB?usp=sharing
 
-Accepts images of handwritten answer sheets in a fixed layout.
-Download here –>
-Sheet 1 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s1.jpeg
-Sheet 2 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s2.jpeg
-Sheet 3 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s3.jpeg
-Sheet 4 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s4.jpeg
+**Accepts images of handwritten answer sheets in a fixed layout.Download here –>**
+1. Sheet 1 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s1.jpeg
+2. Sheet 2 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s2.jpeg
+3. Sheet 3 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s3.jpeg
+4. Sheet 4 -https://mlig-iitmbs.github.io/somsubhra-promptingtalk/assets/s4.jpeg
 
 ## How I Built This
 
